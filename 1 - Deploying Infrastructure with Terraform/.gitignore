@@ -1,0 +1,8 @@
+
+
+# IntelliJ Config Files #
+.idea/
+*.iml
+
+#Terrform related files
+.terraform/
